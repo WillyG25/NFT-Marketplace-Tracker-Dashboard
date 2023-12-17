@@ -1,0 +1,7 @@
+streamlit
+Pillow
+pandas
+altair
+scikit-learn
+mysql-connector-python
+web3

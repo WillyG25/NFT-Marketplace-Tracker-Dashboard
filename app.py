@@ -1,3 +1,10 @@
+pip install streamlit
+pip install Pillow
+pip install pandas
+pip install altair
+pip install scikit-learn
+pip install mysql-connector-python
+pip install web3
 import streamlit as st
 from PIL import Image
 import pandas as pd

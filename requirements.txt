@@ -6,3 +6,11 @@ scikit-learn
 mysql-connector-python
 web3
 sqlalchemy 
+sklearn.ensemble
+sklearn.model_selection 
+sklearn.preprocessing 
+sklearn.compose 
+sklearn.pipeline
+datetime 
+matplotlib.pyplot 
+

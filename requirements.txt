@@ -5,3 +5,4 @@ altair
 scikit-learn
 mysql-connector-python
 web3
+sqlalchemy 

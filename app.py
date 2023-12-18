@@ -303,7 +303,7 @@ class App:
         self.db = DatabaseManager(
             host="localhost",
             user="root",
-            password="Wirryjayee1",
+            password="",
             database="nftmarketplacetracker"
         )
         self.user_manager = UserManager(self.db, session_state)
@@ -601,7 +601,7 @@ class App:
             db_config = {
                 "host": "localhost",
                 "user": "root",
-                "password": "Wirryjayee1",
+                "password": "",
                 "database": "nftmarketplacetracker"
             }
 
